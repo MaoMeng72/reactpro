@@ -1,0 +1,5 @@
+.nav{position: relative;}
+.app-nav{height: 3rem;display: flex;justify-content: center;position: fixed;background: #fff;left: 0;right: 0;}
+.app-nav--title{font-size: 1rem;line-height: 3rem;padding:0 .6rem;font-weight: 700}
+.app-nav--active{color: #f00;border-bottom: .04rem solid #f00;}
+.app-nav--pos{height: 3rem;}
